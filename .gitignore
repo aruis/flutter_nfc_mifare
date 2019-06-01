@@ -5,3 +5,6 @@
 .pub/
 
 build/
+.idea
+flutter_nfc_mifare.iml
+
